@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "KlFUce6zKrLs8zqUBBqUMcrfUJeKcY+gXZo8BRnwqgEwZjD23wSIdBugIPmUSOiP12P6CraN3CBn3MgI0cbNRw==",
+  "dgSpecHash": "2IA2i2MH+DZWBC8vcCjlXk9QXb2pN+cl0KZ0MEJRArysxSugvqsAv62lSo/RdQnw08w6D9yi8jd9LwIreI5OSA==",
   "success": true,
   "projectFilePath": "G:\\Projects\\You\\Yas\\src\\Yas.MultiTenant\\Yas.MultiTenant.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

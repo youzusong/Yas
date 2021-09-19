@@ -2,7 +2,6 @@ G:\Projects\You\Yas\src\Yas.MultiTenant\bin\Debug\net5.0\Yas.MultiTenant.deps.js
 G:\Projects\You\Yas\src\Yas.MultiTenant\bin\Debug\net5.0\Yas.MultiTenant.dll
 G:\Projects\You\Yas\src\Yas.MultiTenant\bin\Debug\net5.0\ref\Yas.MultiTenant.dll
 G:\Projects\You\Yas\src\Yas.MultiTenant\bin\Debug\net5.0\Yas.MultiTenant.pdb
-G:\Projects\You\Yas\src\Yas.MultiTenant\obj\Debug\net5.0\Yas.MultiTenant.csproj.AssemblyReference.cache
 G:\Projects\You\Yas\src\Yas.MultiTenant\obj\Debug\net5.0\Yas.MultiTenant.GeneratedMSBuildEditorConfig.editorconfig
 G:\Projects\You\Yas\src\Yas.MultiTenant\obj\Debug\net5.0\Yas.MultiTenant.AssemblyInfoInputs.cache
 G:\Projects\You\Yas\src\Yas.MultiTenant\obj\Debug\net5.0\Yas.MultiTenant.AssemblyInfo.cs
@@ -13,3 +12,4 @@ G:\Projects\You\Yas\src\Yas.MultiTenant\obj\Debug\net5.0\Yas.MultiTenant.pdb
 G:\Projects\You\Yas\src\Yas.MultiTenant\bin\Debug\net5.0\Yas.Core.dll
 G:\Projects\You\Yas\src\Yas.MultiTenant\bin\Debug\net5.0\Yas.Core.pdb
 G:\Projects\You\Yas\src\Yas.MultiTenant\obj\Debug\net5.0\Yas.MultiTenant.csproj.CopyComplete
+G:\Projects\You\Yas\src\Yas.MultiTenant\obj\Debug\net5.0\Yas.MultiTenant.csprojAssemblyReference.cache

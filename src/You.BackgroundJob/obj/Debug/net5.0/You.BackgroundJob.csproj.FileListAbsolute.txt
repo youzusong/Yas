@@ -1,0 +1,15 @@
+G:\Projects\You\Yas\src\You.BackgroundJob\bin\Debug\net5.0\You.BackgroundJob.deps.json
+G:\Projects\You\Yas\src\You.BackgroundJob\bin\Debug\net5.0\You.BackgroundJob.dll
+G:\Projects\You\Yas\src\You.BackgroundJob\bin\Debug\net5.0\ref\You.BackgroundJob.dll
+G:\Projects\You\Yas\src\You.BackgroundJob\bin\Debug\net5.0\You.BackgroundJob.pdb
+G:\Projects\You\Yas\src\You.BackgroundJob\bin\Debug\net5.0\Yas.Core.dll
+G:\Projects\You\Yas\src\You.BackgroundJob\bin\Debug\net5.0\Yas.Core.pdb
+G:\Projects\You\Yas\src\You.BackgroundJob\obj\Debug\net5.0\You.BackgroundJob.csprojAssemblyReference.cache
+G:\Projects\You\Yas\src\You.BackgroundJob\obj\Debug\net5.0\You.BackgroundJob.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\You\Yas\src\You.BackgroundJob\obj\Debug\net5.0\You.BackgroundJob.AssemblyInfoInputs.cache
+G:\Projects\You\Yas\src\You.BackgroundJob\obj\Debug\net5.0\You.BackgroundJob.AssemblyInfo.cs
+G:\Projects\You\Yas\src\You.BackgroundJob\obj\Debug\net5.0\You.BackgroundJob.csproj.CoreCompileInputs.cache
+G:\Projects\You\Yas\src\You.BackgroundJob\obj\Debug\net5.0\You.BackgroundJob.csproj.CopyComplete
+G:\Projects\You\Yas\src\You.BackgroundJob\obj\Debug\net5.0\You.BackgroundJob.dll
+G:\Projects\You\Yas\src\You.BackgroundJob\obj\Debug\net5.0\ref\You.BackgroundJob.dll
+G:\Projects\You\Yas\src\You.BackgroundJob\obj\Debug\net5.0\You.BackgroundJob.pdb

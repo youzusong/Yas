@@ -9,4 +9,4 @@ G:\Projects\You\Yas\src\Yas.Core\bin\Debug\net5.0\Yas.Core.pdb
 G:\Projects\You\Yas\src\Yas.Core\obj\Debug\net5.0\Yas.Core.dll
 G:\Projects\You\Yas\src\Yas.Core\obj\Debug\net5.0\ref\Yas.Core.dll
 G:\Projects\You\Yas\src\Yas.Core\obj\Debug\net5.0\Yas.Core.pdb
-G:\Projects\You\Yas\src\Yas.Core\obj\Debug\net5.0\Yas.Core.csproj.AssemblyReference.cache
+G:\Projects\You\Yas\src\Yas.Core\obj\Debug\net5.0\Yas.Core.csprojAssemblyReference.cache

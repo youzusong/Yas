@@ -7,15 +7,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C6137AA3-D5E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{03957A4F-F15F-4E80-8B3A-5C50D8251794}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yas.Core", "src\Yas.Core\Yas.Core.csproj", "{ADD06804-5015-4AD5-AA3D-AC45B73DD999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yas.Core", "src\Yas.Core\Yas.Core.csproj", "{ADD06804-5015-4AD5-AA3D-AC45B73DD999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yas.MultiTenant", "src\Yas.MultiTenant\Yas.MultiTenant.csproj", "{A24049D6-DDE7-4697-96D2-6DE0F2D3B999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yas.MultiTenant", "src\Yas.MultiTenant\Yas.MultiTenant.csproj", "{A24049D6-DDE7-4697-96D2-6DE0F2D3B999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yas.AspNetCore.MultiTenant", "src\Yas.AspNetCore.MultiTenant\Yas.AspNetCore.MultiTenant.csproj", "{5008B9AD-90A2-46E8-9F49-08AEAAFD1E9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yas.AspNetCore.MultiTenant", "src\Yas.AspNetCore.MultiTenant\Yas.AspNetCore.MultiTenant.csproj", "{5008B9AD-90A2-46E8-9F49-08AEAAFD1E9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yas.Core.Test", "test\Yas.Core.Test\Yas.Core.Test.csproj", "{0C12F35C-8D41-492C-A3C7-4AB33F7D7B00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yas.Core.Test", "test\Yas.Core.Test\Yas.Core.Test.csproj", "{0C12F35C-8D41-492C-A3C7-4AB33F7D7B00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yas.AspNetCore", "src\Yas.AspNetCore\Yas.AspNetCore.csproj", "{20DB5689-E0BC-4F1B-AE71-A60E416409AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yas.AspNetCore", "src\Yas.AspNetCore\Yas.AspNetCore.csproj", "{20DB5689-E0BC-4F1B-AE71-A60E416409AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You.BackgroundJob", "src\You.BackgroundJob\You.BackgroundJob.csproj", "{02057A05-8988-47BB-A322-FBA9DA004471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You.BackgroundJobs", "src\You.BackgroundJobs\You.BackgroundJobs.csproj", "{A4557272-8166-43B5-9B60-2D5855816A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You.BackgroundWorkers", "src\You.BackgroundWorkers\You.BackgroundWorkers.csproj", "{8DF75B6B-DBC2-401B-BB53-5B7EF3309426}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +49,18 @@ Global
 		{20DB5689-E0BC-4F1B-AE71-A60E416409AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20DB5689-E0BC-4F1B-AE71-A60E416409AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20DB5689-E0BC-4F1B-AE71-A60E416409AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02057A05-8988-47BB-A322-FBA9DA004471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02057A05-8988-47BB-A322-FBA9DA004471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02057A05-8988-47BB-A322-FBA9DA004471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02057A05-8988-47BB-A322-FBA9DA004471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4557272-8166-43B5-9B60-2D5855816A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4557272-8166-43B5-9B60-2D5855816A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4557272-8166-43B5-9B60-2D5855816A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4557272-8166-43B5-9B60-2D5855816A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF75B6B-DBC2-401B-BB53-5B7EF3309426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF75B6B-DBC2-401B-BB53-5B7EF3309426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF75B6B-DBC2-401B-BB53-5B7EF3309426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF75B6B-DBC2-401B-BB53-5B7EF3309426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +71,9 @@ Global
 		{5008B9AD-90A2-46E8-9F49-08AEAAFD1E9A} = {C6137AA3-D5E9-43C8-A903-ABCAB23D19BB}
 		{0C12F35C-8D41-492C-A3C7-4AB33F7D7B00} = {03957A4F-F15F-4E80-8B3A-5C50D8251794}
 		{20DB5689-E0BC-4F1B-AE71-A60E416409AD} = {C6137AA3-D5E9-43C8-A903-ABCAB23D19BB}
+		{02057A05-8988-47BB-A322-FBA9DA004471} = {C6137AA3-D5E9-43C8-A903-ABCAB23D19BB}
+		{A4557272-8166-43B5-9B60-2D5855816A51} = {C6137AA3-D5E9-43C8-A903-ABCAB23D19BB}
+		{8DF75B6B-DBC2-401B-BB53-5B7EF3309426} = {C6137AA3-D5E9-43C8-A903-ABCAB23D19BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7FDDE856-277E-4256-8A3C-BE68C4532794}

@@ -7,7 +7,7 @@ namespace System
     {
         public static bool IsNullOrEmpty(this string str)
         {
-            return string.IsNullOrEmpty(str);
+            return String.IsNullOrEmpty(str);
         }
 
         public static string Right(this string str, int len)

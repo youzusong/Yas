@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEZNG+dtYxtB0pPHak9Yu57KHfDHnvdUF1U3ZX6KaGflvBlcVZQkihIUd/AFeWPK1G57FJTMhFawsiijoAY/Wg==",
+  "success": true,
+  "projectFilePath": "G:\\Projects\\You\\Yas\\src\\You.BackgroundWorkers\\You.BackgroundWorkers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\You\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,4 +1,3 @@
-G:\Projects\You\Yas\test\Yas.Core.Test\obj\Debug\net5.0\Yas.Core.Test.csproj.AssemblyReference.cache
 G:\Projects\You\Yas\test\Yas.Core.Test\obj\Debug\net5.0\Yas.Core.Test.GeneratedMSBuildEditorConfig.editorconfig
 G:\Projects\You\Yas\test\Yas.Core.Test\obj\Debug\net5.0\Yas.Core.Test.AssemblyInfoInputs.cache
 G:\Projects\You\Yas\test\Yas.Core.Test\obj\Debug\net5.0\Yas.Core.Test.AssemblyInfo.cs
@@ -98,3 +97,4 @@ G:\Projects\You\Yas\test\Yas.Core.Test\obj\Debug\net5.0\Yas.Core.Test.dll
 G:\Projects\You\Yas\test\Yas.Core.Test\obj\Debug\net5.0\ref\Yas.Core.Test.dll
 G:\Projects\You\Yas\test\Yas.Core.Test\obj\Debug\net5.0\Yas.Core.Test.pdb
 G:\Projects\You\Yas\test\Yas.Core.Test\obj\Debug\net5.0\Yas.Core.Test.genruntimeconfig.cache
+G:\Projects\You\Yas\test\Yas.Core.Test\obj\Debug\net5.0\Yas.Core.Test.csprojAssemblyReference.cache

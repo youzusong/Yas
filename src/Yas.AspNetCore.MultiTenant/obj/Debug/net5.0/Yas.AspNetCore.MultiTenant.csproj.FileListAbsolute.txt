@@ -2,7 +2,6 @@ G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\bin\Debug\net5.0\Yas.AspNetCo
 G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\bin\Debug\net5.0\Yas.AspNetCore.MultiTenant.dll
 G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\bin\Debug\net5.0\ref\Yas.AspNetCore.MultiTenant.dll
 G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\bin\Debug\net5.0\Yas.AspNetCore.MultiTenant.pdb
-G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\obj\Debug\net5.0\Yas.AspNetCore.MultiTenant.csproj.AssemblyReference.cache
 G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\obj\Debug\net5.0\Yas.AspNetCore.MultiTenant.GeneratedMSBuildEditorConfig.editorconfig
 G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\obj\Debug\net5.0\Yas.AspNetCore.MultiTenant.AssemblyInfoInputs.cache
 G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\obj\Debug\net5.0\Yas.AspNetCore.MultiTenant.AssemblyInfo.cs
@@ -10,3 +9,11 @@ G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\obj\Debug\net5.0\Yas.AspNetCo
 G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\obj\Debug\net5.0\Yas.AspNetCore.MultiTenant.dll
 G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\obj\Debug\net5.0\ref\Yas.AspNetCore.MultiTenant.dll
 G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\obj\Debug\net5.0\Yas.AspNetCore.MultiTenant.pdb
+G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\bin\Debug\net5.0\Yas.AspNetCore.dll
+G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\bin\Debug\net5.0\Yas.Core.dll
+G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\bin\Debug\net5.0\Yas.MultiTenant.dll
+G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\bin\Debug\net5.0\Yas.AspNetCore.pdb
+G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\bin\Debug\net5.0\Yas.MultiTenant.pdb
+G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\bin\Debug\net5.0\Yas.Core.pdb
+G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\obj\Debug\net5.0\Yas.AspNetCore.MultiTenant.csprojAssemblyReference.cache
+G:\Projects\You\Yas\src\Yas.AspNetCore.MultiTenant\obj\Debug\net5.0\Yas.AspNetCore.MultiTenant.csproj.CopyComplete

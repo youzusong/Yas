@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Yas.AspNetCore.MultiTenant/1.0.0": {
+        "dependencies": {
+          "Yas.AspNetCore": "1.0.0",
+          "Yas.MultiTenant": "1.0.0"
+        },
+        "runtime": {
+          "Yas.AspNetCore.MultiTenant.dll": {}
+        }
+      },
+      "Yas.AspNetCore/1.0.0": {
+        "dependencies": {
+          "Yas.Core": "1.0.0"
+        },
+        "runtime": {
+          "Yas.AspNetCore.dll": {}
+        }
+      },
+      "Yas.Core/1.0.0": {
+        "runtime": {
+          "Yas.Core.dll": {}
+        }
+      },
+      "Yas.MultiTenant/1.0.0": {
+        "dependencies": {
+          "Yas.Core": "1.0.0"
+        },
+        "runtime": {
+          "Yas.MultiTenant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yas.AspNetCore.MultiTenant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yas.AspNetCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yas.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yas.MultiTenant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
